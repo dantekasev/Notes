@@ -6,3 +6,5 @@ git commit -m "catatan"
 
 #setelah dicommit dan memutuskan dipush
 sudo git push https://github.com/dantekasev/*namarepo.git
+
+#setelah melakukan clone, lakukan commit juga
