@@ -1,0 +1,15 @@
+#pembaharuan token
+setting -> developer setting -> personal access token -> generate new token
+
+#masukan config
+git config --global user.name "username"
+git config --global user.email "email"
+
+#masukan email dan token yang telah ditentukan
+
+#save token yang telah dimasukan
+git config --global credential.helper cache
+
+#delete token yang telah disave
+git config --global --unset credential.help
+git config --system --unset credential.help
