@@ -1,0 +1,8 @@
+#cara add
+git add *nama file
+
+#setelah diadd harus dicommit
+git commit -m "catatan"
+
+#setelah dicommit dan memutuskan dipush
+sudo git push https://github.com/dantekasev/*namarepo.git
